@@ -13,7 +13,12 @@ namespace CW1_template
             // Question 2:
             Console.WriteLine("\n-------Question 2-------");
             // Enter code and comments here...
-           
+           int number = 10;
+while (number > 0)
+{
+    Console.WriteLine(number);
+    number--;
+}
 
         }
     }
